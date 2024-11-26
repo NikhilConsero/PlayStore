@@ -15,4 +15,5 @@ namespace PlayStore
         void GetUser();
         void Getresult();
     }
+
 }

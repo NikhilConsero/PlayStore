@@ -20,7 +20,6 @@ namespace PlayStore
 
         public void AddUser()
         {
-            for (int i = 0; i < UserKe; i++) {
             
         }
 
@@ -40,6 +39,13 @@ namespace PlayStore
         public void deleteUser()
         {
             
+        }
+
+      
+
+        public void Getresult()
+        {
+            throw new NotImplementedException();
         }
 
         public void GetUser()

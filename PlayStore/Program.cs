@@ -11,3 +11,5 @@ Console.WriteLine(c.Description);
 c.AddCategory(3, "ABC");
 c.AddCategory(2, "XYZ", "Test");
 Categories d = c;
+int x;
+int y;

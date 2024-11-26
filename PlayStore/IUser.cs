@@ -13,5 +13,6 @@ namespace PlayStore
         void updateuser();
         void deleteUser();
         void GetUser();
+        void Getresult();
     }
 }
